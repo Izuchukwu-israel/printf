@@ -43,5 +43,4 @@ int _printf(const char *format, ...)
 		va_end(ar_list);
 	}
 
-	return (count);
-}
+	return (count);}
